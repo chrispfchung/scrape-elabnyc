@@ -1,2 +1,2 @@
 # scrape-elabnyc
-scraping elabnyc directroy
+scraping elabnyc directory
